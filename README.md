@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swooosh1
-- 👀 I’m interested in IT, Eletronics and Music!
+- 👀 I’m interested in IT, Electronics and Music!
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
