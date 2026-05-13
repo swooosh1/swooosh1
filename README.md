@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @swooosh1
-- 👀 I’m interested in IT, Electronics and Music!
-- 🌱 I’m currently learning Java and PEGAsystems
+- 👀 I’m an IT Developer (OutSystems, etc)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: shorturl.at/chMW3
 
